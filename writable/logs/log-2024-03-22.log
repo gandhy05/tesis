@@ -1,0 +1,655 @@
+CRITICAL - 2024-03-22 04:21:23 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Models\Usuario.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-22 04:22:11 --> Class "App\Model\Usuario" not found
+in APPPATH\Controllers\Login.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 04:22:34 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Models\Usuario.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-22 04:25:08 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Models\Usuario.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-22 04:28:03 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Models\Usuario.php on line 3.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-22 04:31:08 --> Namespace declaration statement has to be the very first statement or after any declare call in the script
+in APPPATH\Models\Usuario.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-03-22 04:56:23 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 04:58:01 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 04:59:44 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 04:59:54 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:02:37 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:03:43 --> Decrypting: authentication failed.
+in SYSTEMPATH\Encryption\Handlers\OpenSSLHandler.php on line 137.
+ 1 SYSTEMPATH\Encryption\Handlers\OpenSSLHandler.php(137): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+ 2 APPPATH\Controllers\Login.php(34): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt('36633439366231656637653034383730316336383064666364643638613861623430356638383464616536366137393835613066316238623861663239353037313833383135643433363362303536623738386438383461393239323734326361353738633739626235366230346366373161656232306530666530356431666135666336383038373520')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:04:02 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:07:44 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:08:23 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:08:31 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:14:20 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:14:53 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:16:06 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:16:12 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:17:23 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:18:13 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:18:45 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:18:51 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:19:13 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:19:18 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:22:56 --> hex2bin(): Argument #1 ($string) must be of type string, stdClass given
+in APPPATH\Controllers\Login.php on line 34.
+ 1 APPPATH\Controllers\Login.php(34): hex2bin(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:23:00 --> hex2bin(): Argument #1 ($string) must be of type string, stdClass given
+in APPPATH\Controllers\Login.php on line 34.
+ 1 APPPATH\Controllers\Login.php(34): hex2bin(Object(stdClass))
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:24:13 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:28:51 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:28:59 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:29:38 --> Decrypting: authentication failed.
+in SYSTEMPATH\Encryption\Handlers\OpenSSLHandler.php on line 137.
+ 1 SYSTEMPATH\Encryption\Handlers\OpenSSLHandler.php(137): CodeIgniter\Encryption\Exceptions\EncryptionException::forAuthenticationFailed()
+ 2 APPPATH\Controllers\Login.php(34): CodeIgniter\Encryption\Handlers\OpenSSLHandler->decrypt('36633439366231656637653034383730316336383064666364643638613861623430356638383464616536366137393835613066316238623861663239353037313833383135643433363362303536623738386438383461393239323734326361353738633739626235366230346366373161656232306530666530356431666135666336383038373520')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:30:02 --> Call to undefined function App\Controllers\hexbin()
+in APPPATH\Controllers\Login.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:30:10 --> Call to undefined function App\Controllers\hexbin()
+in APPPATH\Controllers\Login.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:35:30 --> Undefined variable $config
+in APPPATH\Controllers\Login.php on line 33.
+ 1 APPPATH\Controllers\Login.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $config', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 33)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:35:47 --> CodeIgniter\Config\Services::encrypter(): Argument #1 ($config) must be of type ?Config\Encryption, stdClass given, called in C:\xampp\htdocs\sistema_sgd\system\Config\BaseService.php on line 252
+in SYSTEMPATH\Config\Services.php on line 233.
+ 1 SYSTEMPATH\Config\BaseService.php(252): CodeIgniter\Config\Services::encrypter(Object(stdClass))
+ 2 APPPATH\Controllers\Login.php(33): CodeIgniter\Config\BaseService::__callStatic('encrypter', [...])
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:36:17 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('785abb94d4e3c18616c2bade72ba8acb6c496b1ef7e048701c680dfcdd68a8ab405f884dae66a7985a0f1b8b8af29507183815d4363b056b788d884a9292742ca578c79bb56b04cf71aeb20e0fe05d1fa5fc680875 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:40:32 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:42:29 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:42:45 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:43:02 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:45:26 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:45:41 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:48:07 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:51:41 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 34.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 34)
+ 2 APPPATH\Controllers\Login.php(34): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:53:07 --> hex2bin(): Input string must be hexadecimal string
+in APPPATH\Controllers\Login.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Input string must be hexadecimal string', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 43)
+ 2 APPPATH\Controllers\Login.php(43): hex2bin('096289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:54:40 --> Class "App\Controllers\Config\Services" not found
+in APPPATH\Controllers\Login.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:54:51 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:56:21 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:56:34 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:56:47 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:56:50 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-03-22 05:56:56 --> [DEPRECATED] preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\Login.php on line 27.
+ 1 APPPATH\Controllers\Login.php(27): preg_replace('/[^a-zA-Z0-9.-]/', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:57:00 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:57:23 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:57:37 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-03-22 05:57:44 --> [DEPRECATED] preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in APPPATH\Controllers\Login.php on line 27.
+ 1 APPPATH\Controllers\Login.php(27): preg_replace('/[^a-zA-Z0-9.-]/', '', null)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 05:57:53 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:00:35 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:12:26 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:12:47 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:12:51 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:13:52 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:14:27 --> Call to a member function hex2bin() on null
+in APPPATH\Controllers\Login.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:14:46 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:14:54 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:14:56 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:21:15 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('96289075119f88f319e5d8e03396b9362a6a7d48cff90faef792fe65f564c80ce22ca5ce28d854d2658e9a920ce9118a7e43c4448fb1faee05cd0573522a5cc8e79e0fae77fa3c0f162bd114ffe2ad0fd5d203 ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:28:31 --> Call to undefined function App\Controllers\base64()
+in APPPATH\Controllers\Login.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:30:15 --> Call to undefined function App\Controllers\base64()
+in APPPATH\Controllers\Login.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:33:22 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:35:55 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:37:43 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:40:45 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:41:05 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:44:16 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:44:23 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:44:35 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:44:57 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:47:32 --> Undefined variable $clave
+in APPPATH\Controllers\Login.php on line 35.
+ 1 APPPATH\Controllers\Login.php(35): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $clave', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:47:45 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:50:32 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:50:38 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:52:10 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:52:18 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:52:38 --> Call to undefined function App\Controllers\hexbin()
+in APPPATH\Controllers\Login.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:52:53 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-03-22 06:54:48 --> hex2bin(): Hexadecimal input string must have an even length
+in APPPATH\Controllers\Login.php on line 35.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'hex2bin(): Hexadecimal input string must have an even length', 'C:\\xampp\\htdocs\\sistema_sgd\\app\\Controllers\\Login.php', 35)
+ 2 APPPATH\Controllers\Login.php(35): hex2bin('3627cee4f7ecbb959ae89fef605ea6abcde8035a5b6c41e113fba661fb429e217d3a4533a53a10e86dc8cd9e361221673d900e6ee1d1abd1a003705b929ee53e1a6c380bbbad7222849e81994d80e06033fda7   ')
+ 3 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->validarIngreso()
+ 4 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
